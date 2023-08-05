@@ -1,0 +1,2 @@
+# AIRiya
+AI generative project
